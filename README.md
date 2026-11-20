@@ -3,6 +3,14 @@
 
 ---
 
+## 👥 Team Members
+
+| Name | SRN |
+|------|-----|
+| Sami Shahapuri | PES1UG24CS611 |
+| Sanskar Ghenappagol | PES1UG24CS614|
+
+---
 ## 1. PROJECT OVERVIEW
 
 The **Smart Healthcare & Doctor Appointment Management System** is an enterprise-grade clinical management, scheduling, prescription authoring, billing, and document analytics platform. 
