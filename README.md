@@ -230,3 +230,8 @@ DBMS_Project/
    - Watch the MySQL trigger `trg_update_bill_on_payment` automatically update the bill status to `Paid`.
 5. **MongoDB NoSQL & Vector Search (`/admin/mongodb-explorer`):**
    - Enter natural language clinical symptoms (e.g., &quot;chest tightness&quot;) to observe Cosine-Similarity semantic search ranking diagnostic records.
+
+
+
+
+
